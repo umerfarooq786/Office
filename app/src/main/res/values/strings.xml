@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Office</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDp5w2vb8ZgUNunvkSIkHr9hi5GWY3LTps</string>
 </resources>
